@@ -1,0 +1,1 @@
+["sbt.Task[scala.collection.Seq[java.nio.file.Path]]",["/home/kerell/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scalacheck/scalacheck_2.12/1.14.0/scalacheck_2.12-1.14.0.jar","/home/kerell/.sbt/boot/scala-2.12.10/lib/scala-library.jar","/home/kerell/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/test-interface/1.0/test-interface-1.0.jar"]]
